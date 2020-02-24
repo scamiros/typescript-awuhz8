@@ -1,3 +1,22 @@
 h1, h2 {
   font-family: Lato;
+  color: #3d3d3d;
+  font-weight: bold;
+  border-bottom: 1px solid #727171;
+  padding: 10px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Lato;
+  color: #474747;
+  padding: 0px 10px;
+  margin-top: -8px;
+  font-weight: bold;
+}
+
+.heading {
+  text-align: center;
+  margin: 20px;
 }
